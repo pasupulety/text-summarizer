@@ -36,3 +36,24 @@ text-summarizer/
 ├── sample.txt           # Sample input text
 ├── requirements.txt     # Python dependencies
 └── README.md            # Documentation
+## 🛠️ Tech Stack
+- **Language:** Python  
+- **Framework:** Streamlit  
+- **Model:** Hugging Face Transformers (BART)  
+- **Tools:** Git, Virtualenv, CLI
+## 🚀 Future Enhancements
+- Add support for multiple summarization models (T5, Pegasus)
+- Build a user-friendly web interface with more customization
+- Enable file uploads (PDF/Text) for summarization
+- Deploy using Streamlit Cloud or Hugging Face Spaces
+## 📁 Project Structure
+text-summarizer/
+├── app_streamlit.py     # Streamlit web app
+├── summarize.py         # CLI summarizer script
+├── requirements.txt     # Python dependencies
+├── sample.txt           # Sample input text
+└── README.md            # Documentation
+## 📊 Results & Demo
+- Summarizes any text input with Hugging Face BART model.
+- Easy to run via CLI or Streamlit web app.
+- [Optional] Include a screenshot or GIF of the app if you have one.
