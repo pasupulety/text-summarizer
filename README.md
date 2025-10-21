@@ -21,3 +21,18 @@ source .venv/bin/activate    # On Mac/Linux
 pip install -r requirements.txt
 python -m streamlit run app_streamlit.py
 python summarize.py --input sample.txt --min-length 60 --max-length 160
+git clone https://github.com/pasupulet-y/text-summarizer.git
+cd text-summarizer
+python3 -m venv .venv
+source .venv/bin/activate   # On Mac/Linux
+# .venv\Scripts\activate    # On Windows
+pip install -r requirements.txt
+python -m streamlit run app_streamlit.py
+python summarize.py --input sample.txt --min-length 60 --max-length 160
+text-summarizer/
+│
+├── app_streamlit.py      # Streamlit web app
+├── summarize.py         # CLI summarizer script
+├── sample.txt           # Sample input text
+├── requirements.txt     # Python dependencies
+└── README.md            # Documentation
