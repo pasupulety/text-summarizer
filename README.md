@@ -1,4 +1,84 @@
+# 🧠 AI Text Summarizer
+
+A simple **AI-powered text summarization app** built using **Hugging Face Transformers (BART)** and **Streamlit**.
+
+---
+
+### 🚀 Live Demo
+🌐 [**Try it Here**](https://pasupulet-y-text-summarizer-app-streamlit-r8fjld.streamlit.app)  
+💻 [**View Source on GitHub**](https://github.com/pasupulet-y/text-summarizer)
+
+---
+
+### ✨ Features
+- 🧾 Summarizes long text into concise summaries instantly.  
+- ⚙️ Adjustable summary length (min and max sliders).  
+- 🤖 Uses the **BART model** from Hugging Face Transformers.  
+- ☁️ Deployed seamlessly using **Streamlit Cloud**.
+
+---
+
+### 🧩 Tech Stack
+| Tool | Purpose |
+|------|----------|
+| 🐍 Python | Core programming language |
+| 🤗 Hugging Face Transformers | NLP model for text summarization |
+| 🔥 PyTorch | Deep learning backend |
+| 🎨 Streamlit | Web app framework |
+
+---
+
+### 👩‍💻 Developed By
+**Harshita Pasupulet**  
+📍 Aspiring Data Analyst | AI & ML Enthusiast  
+[LinkedIn](https://www.linkedin.com/in/harshitapasupulet/) • [Portfolio](#)  
+
+---
+
+### ⚡ Setup Instructions
+
+Clone this repository and run locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/pasupulet-y/text-summarizer.git
+cd text-summarizer
+
+# (Optional) Create a virtual environment
+python3 -m venv .venv
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the app
+streamlit run app_streamlit.py
 # 🧠 Text Summarizer
+# 🧠 AI Text Summarizer
+
+A simple **AI-powered text summarization app** built using **Hugging Face Transformers (BART)** and **Streamlit**.
+
+🌐 **[Live Demo](https://pasupulet-y-text-summarizer-app-streamlit-r8fjld.streamlit.app)**  
+📂 **[Source Code on GitHub](https://github.com/pasupulet-y/text-summarizer)**
+
+---
+
+### 🧩 Features
+- Summarizes long text into concise summaries instantly.
+- Adjustable summary length (min and max).
+- Built using Hugging Face BART model.
+- Deployed using Streamlit Cloud.
+
+### 🛠️ Tech Stack
+- Python
+- Hugging Face Transformers
+- Streamlit
+- PyTorch
+
+### 👩‍💻 Developed by
+**Harshita Pasupulet**  
+[LinkedIn](https://www.linkedin.com/in/harshitapasupulet/) | [Portfolio](#)
+
 
 A simple AI text summarizer built with Hugging Face Transformers (BART) and Streamlit.
 
