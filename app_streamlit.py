@@ -33,3 +33,14 @@ if st.button("Summarize ✨"):
         st.warning("⚠️ Please enter some text to summarize!")
 
 
+# Footer
+st.markdown("---")
+st.markdown(
+    """
+    <div style='text-align: center; font-size: 15px; color: gray;'>
+        Developed with ❤️ by <b>Harshita Pasupulety</b> | 
+        <a href='https://github.com/pasupulet-y/text-summarizer' target='_blank'>View on GitHub</a>
+    </div>
+    """,
+    unsafe_allow_html=True
+)

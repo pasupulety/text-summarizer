@@ -57,3 +57,24 @@ text-summarizer/
 - Summarizes any text input with Hugging Face BART model.
 - Easy to run via CLI or Streamlit web app.
 - [Optional] Include a screenshot or GIF of the app if you have one.
+---
+
+## 👩‍💻 Author
+
+**Harshita Pasupulety**  
+🎓 MPS in Analytics, Northeastern University  
+💡 Passionate about Data Science, NLP, and AI-based innovations  
+🔗 [GitHub](https://github.com/pasupulet-y) | [LinkedIn](https://www.linkedin.com/in/harshitapasupulety/)
+# sanity: make sure we’re in the repo root
+pwd
+git rev-parse --show-toplevel
+
+# see what’s changed and what branch we’re on
+git status -sb
+git branch -vv
+git remote -v
+
+# stage, commit, push
+git add README.md app_streamlit.py
+git commit -m "Update: footer credit + README author section"
+git push -u origin main
