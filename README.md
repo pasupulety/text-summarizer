@@ -31,7 +31,7 @@ A simple **AI-powered text summarization app** built using **Hugging Face Transf
 ### 👩‍💻 Developed By
 **Harshita Pasupulety**  
 📍 Aspiring Data Analyst | AI & ML Enthusiast  
-[LinkedIn](https://www.linkedin.com/in/harshita-pasupulety/) • [Portfolio](#)  
+[LinkedIn](https://www.linkedin.com/in/harshita-pasupulety/) • (#)  
 
 ---
 
