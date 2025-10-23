@@ -5,8 +5,8 @@ A simple **AI-powered text summarization app** built using **Hugging Face Transf
 ---
 
 ### 🚀 Live Demo
-🌐 [**Try it Here**](https://pasupulet-y-text-summarizer-app-streamlit-r8fjld.streamlit.app)  
-💻 [**View Source on GitHub**](https://github.com/pasupulet-y/text-summarizer)
+🌐 [**Try it Here**](https://pasupulety-text-summarizer-app-streamlit-r8fjld.streamlit.app)
+💻 [**View Source on GitHub**](https://github.com/pasupulety/text-summarizer)
 
 ---
 
@@ -29,7 +29,7 @@ A simple **AI-powered text summarization app** built using **Hugging Face Transf
 ---
 
 ### 👩‍💻 Developed By
-**Harshita Pasupulet**  
+**Harshita Pasupulety**  
 📍 Aspiring Data Analyst | AI & ML Enthusiast  
 [LinkedIn](https://www.linkedin.com/in/harshitapasupulet/) • [Portfolio](#)  
 
